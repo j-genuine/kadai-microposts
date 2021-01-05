@@ -1,6 +1,6 @@
 ## Microposts(Twitterクローン)
 
-Laravel習得用に作成したアプリケーション。
+Laravel学習用に作成したアプリケーション。
 
 <h5>主要機能</h5>
 
